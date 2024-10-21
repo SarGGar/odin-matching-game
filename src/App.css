@@ -1,0 +1,19 @@
+#root {
+  /* max-width: 5000px; */
+  margin: 0 auto;
+  /* padding: 2rem; */
+  text-align: center;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.score-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

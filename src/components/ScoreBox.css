@@ -1,0 +1,11 @@
+table {
+    text-align: left;
+    border-spacing: 5px;;
+}
+
+
+button {
+    background-color: gray;
+    color: white;
+    max-height: 50px;
+}
