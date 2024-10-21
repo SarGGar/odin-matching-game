@@ -8,7 +8,7 @@ A pokemon memory game where the user aims to remember the pokemon they have alre
 - [Features](#features)
 - [Installation](#installation)
 - [Technologies](#technologies)
-
+- [APIs Used](#apisused)
 ---
 
 ## Features
@@ -49,4 +49,8 @@ This will launch the React app at `http://localhost:5173`.
 - **CSS3**: For styling and animations.
 - **HTML5**: For the game structure.
 -  **Vite**: For fast development and optimized build tooling.
+
+## APIs Used
+- **PokeAPI**: A RESTful API to access data about Pokémon, used for fetching Pokémon data and images within the game. More information can be found at [PokeAPI](https://pokeapi.co/).
+
 
